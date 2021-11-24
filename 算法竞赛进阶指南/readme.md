@@ -4,7 +4,7 @@
 |11.22|0x00/0x03前缀和差分|:ballot_box_with_check:|    
 |11.23|0x00/0x04二分|:ballot_box_with_check:|    
 |11.24|0x00/0x05排序|:ballot_box_with_check:|     
-|11.25|0x00/0x05倍增|:x:|     
+|11.25|0x00/0x05倍增|:ballot_box_with_check:|     
 |11.26|0x00/0x05贪心|:x:|     
 |:wavy_dash:|:wavy_dash:|:wavy_dash:|    
 |11.27|0x10/0x11栈|:x:|     

@@ -5,7 +5,7 @@
 |11.23|0x00/0x04二分|:ballot_box_with_check:|    
 |11.24|0x00/0x05排序|:ballot_box_with_check:|     
 |11.25|0x00/0x05倍增|:ballot_box_with_check:|     
-|11.26|0x00/0x05贪心|:x:|     
+|11.26|0x00/0x05贪心|:ballot_box_with_check:|     
 |:wavy_dash:|:wavy_dash:|:wavy_dash:|    
 |11.27|0x10/0x11栈|:x:|     
 |11.28|0x10/0x12队列|:x:|     

@@ -9,7 +9,7 @@
 |:wavy_dash:|:wavy_dash:|:wavy_dash:|    
 |11.27|0x10/0x11栈|:ballot_box_with_check:|     
 |11.28|0x10/0x12队列|:ballot_box_with_check:|     
-|11.29|0x10/0x13链表与邻接表|:x:|     
+|11.29|0x10/0x13链表与邻接表|:ballot_box_with_check:|     
 |11.30|0x10/0x14Hash|:x:|     
 |12.01|0x10/0x15字符串|:x:|     
 |12.02|0x10/0x16Trie|:x:|     

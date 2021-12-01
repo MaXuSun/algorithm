@@ -1,8 +1,8 @@
 # 完成进度以及规划
-|时间|完成内容|完成度|    
+|时间|完成内容|完成度|     
 |:--:|:--:|:--:|     
-|11.22|0x00/0x03前缀和差分|:ballot_box_with_check:|    
-|11.23|0x00/0x04二分|:ballot_box_with_check:|    
+|11.22|0x00/0x03前缀和差分|:ballot_box_with_check:|     
+|11.23|0x00/0x04二分|:ballot_box_with_check:|     
 |11.24|0x00/0x05排序|:ballot_box_with_check:|     
 |11.25|0x00/0x05倍增|:ballot_box_with_check:|     
 |11.26|0x00/0x05贪心|:ballot_box_with_check:|     
@@ -10,10 +10,10 @@
 |11.27|0x10/0x11栈|:ballot_box_with_check:|     
 |11.28|0x10/0x12队列|:ballot_box_with_check:|     
 |11.29|0x10/0x13链表与邻接表|:ballot_box_with_check:|     
-|11.30|0x10/0x14Hash|:x:|     
-|12.01|0x10/0x15字符串|:x:|     
-|12.02|0x10/0x16Trie|:x:|     
-|12.03|0x10/0x17二叉堆|:x:|     
+|12.01|0x10/0x14Hash|:ballot_box_with_check:|     
+|12.02|0x10/0x15字符串|:x:|     
+|12.03|0x10/0x16Trie|:x:|     
+|12.04|0x10/0x17二叉堆|:x:|     
 |:wavy_dash:|:wavy_dash:|:wavy_dash:|    
 |12.04|0x20/0x21树与图的遍历|:x:|     
 |12.05|0x20/0x22深度优先搜索|:x:|     

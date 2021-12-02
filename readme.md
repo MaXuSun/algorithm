@@ -15,3 +15,6 @@
 ## 进度
 关于LeetCode刷题的进度，在[这里](./leetcode/readme.md)。
 
+# CodeTop
+[CodeTop](https://codetop.cc/home)网站收录了大厂的面试题，现在开始把出现频率 >= 10 的230道题目刷完。
+* 进度：4/230

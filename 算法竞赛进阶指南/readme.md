@@ -11,7 +11,7 @@
 |11.28|0x10/0x12队列|:ballot_box_with_check:|     
 |11.29|0x10/0x13链表与邻接表|:ballot_box_with_check:|     
 |12.01|0x10/0x14Hash|:ballot_box_with_check:|     
-|12.02|0x10/0x15字符串|:x:|     
+|12.02|0x10/0x15字符串|:ballot_box_with_check:|     
 |12.03|0x10/0x16Trie|:x:|     
 |12.04|0x10/0x17二叉堆|:x:|     
 |:wavy_dash:|:wavy_dash:|:wavy_dash:|    
